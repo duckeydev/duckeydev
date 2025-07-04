@@ -9,6 +9,8 @@ Hello I’m a FullStack Developer, Im currently working on NetGoat a Fullstack C
 [![Subliminal CDN](https://github-readme-stats.vercel.app/api/pin/?username=duckeydev&repo=subliminal&theme=catppuccin_mocha&hide_border=false)](https://github.com/duckeydev/subliminal)
 [![HomePort](https://github-readme-stats.vercel.app/api/pin/?username=duckeydev&repo=subliminal&theme=catppuccin_mocha&hide_border=false)](https://github.com/duckeydev/subliminal)
 
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.hackclub.dev/api/wakatime?username=886&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=catppuccin_mocha)![](https://github-readme-streak-stats.herokuapp.com/?user=duckeydev&theme=catppuccin_mocha&hide_border=false)<br/>
 
