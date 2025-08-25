@@ -16,7 +16,7 @@ Hello I’m a FullStack Developer, Im currently working on NetGoat a Fullstack C
 
 ![](https://github-readme-stats.vercel.app/api?username=duckeydev&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-https://github-readme-stats.vercel.app/api?username=cloudable-dev&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true
+![](https://github-readme-stats.vercel.app/api?username=cloudable-dev&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=duckeydev&theme=catppuccin&no-frame=false&no-bg=false&margin-w=4)
