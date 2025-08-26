@@ -1,0 +1,27 @@
+name: "README"
+outfile: "README.md"
+
+template: |
+  # 💫 About Me:
+  Hello I’m a FullStack Developer, Im currently working on NetGoat a Fullstack Cloudflare alternative or a standalone reverse proxy built in Bun
+
+  # 💻 Tech Stack:
+  {{ raw `![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ...` }}
+
+  # 📂 Repositorys:
+  [![NetGoat](https://github-readme-stats.vercel.app/api/pin/?username=cloudable-dev&repo=netgoat&theme=catppuccin_mocha&hide_border=false)](https://github.com/cloudable-dev/netgoat)
+  [![Subliminal CDN](https://github-readme-stats.vercel.app/api/pin/?username=duckeydev&repo=subliminal&theme=catppuccin_mocha&hide_border=false)](https://github.com/duckeydev/subliminal)
+  [![HomePort](https://github-readme-stats.vercel.app/api/pin/?username=duckeydev&repo=subliminal&theme=catppuccin_mocha&hide_border=false)](https://github.com/duckeydev/subliminal)
+
+  {{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+
+  # 📊 GitHub Stats:
+  ![](https://github-readme-stats.hackclub.dev/api/wakatime?username=886&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=catppuccin_mocha)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=duckeydev&theme=catppuccin_mocha&hide_border=false)<br/>
+
+  ![](https://github-readme-stats.vercel.app/api?username=duckeydev&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+  ![](https://github-readme-stats.vercel.app/api?username=cloudable-dev&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)
+
+  ## 🏆 GitHub Trophies
+  ![](https://github-profile-trophy.vercel.app/?username=duckeydev&theme=catppuccin&no-frame=false&no-bg=false&margin-w=4)
