@@ -8,8 +8,6 @@ My name is Ducky, I'm a full-stack developer passionate about open infrastructur
 
 # 📂 Repositorys:
 [![NetGoat](https://github-readme-stats-pink-rho-74.vercel.app/api/pin/?username=cloudable-dev&repo=netgoat&theme=catppuccin_mocha&hide_border=false)](https://github.com/cloudable-dev/netgoat)
-[![Subliminal CDN](https://github-readme-stats-pink-rho-74.vercel.app/api/pin/?username=duckeydev&repo=subliminal&theme=catppuccin_mocha&hide_border=false)](https://github.com/duckeydev/subliminal)
-[![HomePort](https://github-readme-stats-pink-rho-74.vercel.app/api/pin/?username=duckeydev&repo=subliminal&theme=catppuccin_mocha&hide_border=false)](https://github.com/duckeydev/subliminal)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.hackclub.dev/api/wakatime?username=886&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=catppuccin_mocha)![](https://github-readme-streak-stats.herokuapp.com/?user=duckeydev&theme=catppuccin_mocha&hide_border=false)<br/>
@@ -17,8 +15,4 @@ My name is Ducky, I'm a full-stack developer passionate about open infrastructur
 ![](https://github-readme-stats-pink-rho-74.vercel.app/api?username=duckeydev&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ![](https://github-readme-stats-pink-rho-74.vercel.app/api?username=cloudable-dev&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=duckeydev&theme=catppuccin&no-frame=false&no-bg=false&margin-w=4)
-
   
